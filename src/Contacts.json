@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "first_name": "Ruthie",
+    "last_name": "Antonutti",
+    "email": "rantonutti0@1688.com",
+    "phone_number": "0342593997",
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "first_name": "Merry",
+    "last_name": "Faithfull",
+    "email": "mfaithfull1@amazon.co.jp",
+    "phone_number": "1905223443",
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "first_name": "Audry",
+    "last_name": "Dorian",
+    "email": "adorian2@goodreads.com",
+    "phone_number": "5777878415",
+    "status": "active"
+  },
+  {
+    "id": 4,
+    "first_name": "Drusilla",
+    "last_name": "Ciani",
+    "email": "dciani3@youtube.com",
+    "phone_number": "6062201483",
+    "status": "active"
+  },
+  {
+    "id": 5,
+    "first_name": "Rodd",
+    "last_name": "Gilbert",
+    "email": "rgilbert4@privacy.gov.au",
+    "phone_number": "1486882421",
+    "status": "active"
+  },
+  {
+    "id": 6,
+    "first_name": "Janean",
+    "last_name": "Leicester",
+    "email": "jleicester5@ftc.gov",
+    "phone_number": "0579802874",
+    "status": "inactive"
+  }
+]
